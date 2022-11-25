@@ -3,7 +3,7 @@
 ![Employee data](https://i.imgur.com/p0Imlrp.png)
 The purpose of this project was to test my technical and practical knowledge with the backend with python using the django rest framework and also with the front end with react js
 
-# Objetivo do projeto
+# Solution
 
 Parser a text file (CNAB) and save your information (financial transactions) to a database at the candidate's discretion, and list the total value of transitions made per store
 

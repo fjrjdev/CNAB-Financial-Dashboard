@@ -1,6 +1,5 @@
 # About the Project
 
-![Employee data](https://i.imgur.com/p0Imlrp.png)
 The purpose of this project was to test my technical and practical knowledge with the backend with python using the django rest framework and also with the front end with react js
 
 # Solution
@@ -65,6 +64,6 @@ http://localhost:3000/
 ```
 
 # Screenshots
-
+![Employee data](https://i.imgur.com/p0Imlrp.png)
 ![Employee data](https://i.imgur.com/ajiKP6u.png)
 ![Employee data](https://i.imgur.com/QBhPgIu.png)

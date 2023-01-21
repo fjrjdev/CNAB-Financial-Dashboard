@@ -1,10 +1,10 @@
 # About the Project
 
-The purpose of this project was to test my technical and practical knowledge with the backend with python using the django rest framework and also with the front end with react js
+"The objective of this project was to evaluate my technical and practical expertise in using Django for backend development and React JS for frontend development."
 
 # Solution
 
-Parser a text file (CNAB) and save your information (financial transactions) to a database at the candidate's discretion, and list the total value of transitions made per store
+A user-friendly dashboard that allows for the efficient analysis of CNAB text files, enabling the storage of financial transaction information in a database of your choice. The dashboard also provides the capability to list the total number of transactions made per store and quickly view the total balance of a selected store, making it an ideal tool for managing and tracking financial data.
 
 # Technologies
 
@@ -39,28 +39,37 @@ These instructions will get you a copy of the project up and running on your loc
 
 <br>
 
-- **Clone repository**
+- **Step 1: Clone the repository**
 
 ```
 git clone git@github.com:fjrjdev/dashboard_fullstack.git
 ```
 
-- **Build application**
+- **Step 2: Navigate to the cloned repository directory**
+
+```
+cd dashboard_fullstack
+```
+
+- **Step 3: Build the application**
 
 ```
 docker compose up --build
 ```
+This command will create the required images and containers for the application.
 
-- **Start application**
+- **Step 4: Start the application**
 
 ```
 docker compose up
 ```
 
-- **Access application**
+- **Step 5: Access the application**
 
 ```
-http://localhost:3000/
+Visit http://localhost:3000/ in your web browser.
+
+Note: Make sure you have docker on your system before running the above commands.
 ```
 
 # Screenshots
